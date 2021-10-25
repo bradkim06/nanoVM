@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\brad\Desktop\STM32F4-Discovery_FW_V1.1.0\STM32F4-Discovery_FW_V1.1.0\Project\NanoVM\MDK-ARM\NanoVM.uvproj
+Project File Date:  10/25/2012
+
+<h2>Output:</h2>
+Build target 'NanoVM'
+compiling uart.c...
+..\uart.c(131): error:  #20: identifier "test" is undefined
+..\uart.c(138): error:  #20: identifier "test" is undefined
+Target not created
+Build target 'NanoVM'
+compiling uart.c...
+linking...
+Program Size: Code=29984 RO-data=1496 RW-data=8480 ZI-data=2160  
+".\NanoVM\NanoVM.axf" - 0 Error(s), 0 Warning(s).
+Build target 'NanoVM'
+compiling uart.c...
+linking...
+Program Size: Code=30008 RO-data=1496 RW-data=8480 ZI-data=2160  
+".\NanoVM\NanoVM.axf" - 0 Error(s), 0 Warning(s).
+Build target 'NanoVM'
+compiling nvmfile.c...
+compiling uart.c...
+linking...
+Program Size: Code=29876 RO-data=1500 RW-data=8480 ZI-data=2160  
+".\NanoVM\NanoVM.axf" - 0 Error(s), 0 Warning(s).
+Build target 'NanoVM'
+compiling adc.c...
+linking...
+Program Size: Code=29860 RO-data=1500 RW-data=8480 ZI-data=2160  
+".\NanoVM\NanoVM.axf" - 0 Error(s), 0 Warning(s).
